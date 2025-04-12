@@ -1,0 +1,147 @@
+{
+  "Ar": "Ar",
+  "En": "En",
+  "Arabic": "Arabic",
+  "English": "English",
+  "Login": "Login",
+  "Welcome back, please login to your account.": "Welcome back, please login to your account.",
+  "Username": "Username",
+  "Password": "Password",
+  "Sign in": "Sign in",
+  "Karim aldeen © 2022 | All Rights Reserved": "Moayyad Alsharbji © 2025 | All Rights Reserved",
+  "unknown": "Unknown",
+  "super admin": "Super Admin",
+  "admin": "Admin",
+  "Home": "Home",
+  "example": "Example",
+  "Log Out": "Log Out",
+  "Example": "Example",
+  "Add": "Add",
+  "username": "Username",
+  "password": "Password",
+  "name": "Name",
+  "email": "Email",
+  "cancel": "Cancel",
+  "edit": "Edit",
+  "ligth": "Light",
+  "dark": "Dark",
+  "delete_are_you_sure": "Are you sure you want to delete?",
+  "no_revert": "This action cannot be reverted.",
+  "yes_delete_it": "Yes, delete it",
+
+  "hero": {
+    "name": "Moayyad Alsharbji",
+    "role": "Front-End Developer",
+    "description": "Front-End Developer with over 2 years of experience and strong background in algorithms and mathematics. Specialized in React.js, Next.js and efficient UI building.",
+    "askedQuestions": "Asked Questions",
+    "contactMe": "Contact Me"
+  },
+
+  "powerfulFeatures": {
+    "title": "TECHNICAL SKILLS",
+    "skills": {
+      "skills_1": "React",
+      "skills_2": "TypeScript",
+      "skills_3": "Next.js",
+      "skills_4": "Zustand",
+      "skills_5": "Redux",
+      "skills_6": "Socket.io",
+      "skills_7": "Git & GitLab",
+      "skills_8": "Ant Design & MUI"
+    }
+  },
+
+  "aboutUs": {
+    "educationTitle": "My EDUCATION",
+    "educationDescription": "Bachelor's in Information Technology at Damascus University, with a focus on foundational computing concepts, software development, and programming.",
+    "1": {
+      "title": "Damascus University",
+      "content": "Studied Information Technology. Focused on web technologies, programming, and software engineering principles."
+    },
+    "2": {
+      "title": "Professional Experience",
+      "content": "Practical knowledge built through hands-on experience in developing dashboards, ecommerce apps, and real-time chat systems."
+    },
+    "3": {
+      "title": "Competitive Programming Background",
+      "content": "Strong base in algorithms and mathematics from previous participation in competitive programming."
+    }
+  },
+
+  "lookingFor": {
+    "title": "Seeking Front-End Developer Opportunities",
+    "content": "I’m passionate about creating responsive, user-friendly applications. Actively looking for frontend or full stack roles where I can contribute React/Next.js skills in dynamic teams.",
+    "buttonText": "Download My CV"
+  },
+
+  "questions": {
+    "title": "Frequently Asked Questions",
+    "skill": {
+      "label": "What is your best skill?",
+      "content": "Strongest in React, Next.js, Zustand, TypeScript, Redux, and building scalable UI components. Comfortable with Git, Firebase, Ant Design, MUI, and integrating real-time features using Socket.io."
+    },
+    "careerBackground": {
+      "label": "Can you provide an overview of your career background as a Front-End Developer",
+      "content": "Over 2 years of experience in front-end development, including working remotely and in-office. Projects ranged from ecommerce to AI dashboards."
+    },
+    "educationalBackground": {
+      "label": "What is your educational background?",
+      "content": "Bachelor of Information Technology at Damascus University."
+    },
+    "remoteWork": {
+      "label": "Are you open to remote work",
+      "content": "Yes, I’ve worked remotely on multiple projects and enjoy collaborating across time zones."
+    },
+    "projects": {
+      "label": "Can you share details about some of the projects you worked on as a Front-End Developer?",
+      "content": [
+        "Built admin dashboard at Smarttik with real-time analytics and user management.",
+        "Created AI-powered chat dashboard for Qdeep.",
+        "Worked on ecommerce dashboards with filtering, checkout, and mobile responsiveness.",
+        "Built game app features including purchasing coins.",
+        "Maintained projects via Git and deployed to cPanel."
+      ]
+    }
+  },
+
+  "contact": {
+    "title": "Contact Me",
+    "sendYourMessage": "Send your message and it will be automatically sent to my Gmail",
+    "name": "Name",
+    "enterYourName": "Enter your name",
+    "email": "Email",
+    "enterYourEmail": "Enter your email",
+    "message": "Message",
+    "typeYourMessage": "Type your message here",
+    "submit": "Submit",
+    "loading": "Sending...",
+    "emailSentSuccess": "Email sent successfully!"
+  },
+
+  "footer": {
+    "title": "Moayyad Alsharbji",
+    "description": "Front-End Developer with strong knowledge of React.js, TypeScript, and building scalable user interfaces. Passionate about clean code and modern UI/UX.",
+    "contact": {
+      "title": "Contact Me",
+      "phone": "Phone: +963934873895",
+      "email": "moayyadal534@gmail.com"
+    },
+    "rightsReserved": "@2025 All Right Reserved By Moayyad Alsharbji",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy"
+  },
+
+  "features": "Skills",
+  "education": "Education",
+  "LookingFor": "Career Goals",
+  "ContactMe": "Contact Info",
+  "DownloadCv": "Download CV",
+
+  "setting": {
+    "PrimaryColor": "Primary Color",
+    "SecondaryColor": "Secondary Color",
+    "Change_language": "Change Language to Arabic",
+    "Change_to_LightMood": "Switch to Light Mode",
+    "Change_to_DarkMood": "Switch to Dark Mode"
+  }
+}
