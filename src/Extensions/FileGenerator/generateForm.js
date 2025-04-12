@@ -12,7 +12,7 @@ if (!fileName) {
 let FileContiner = `
 import React from 'react'
 import { Col, Row } from 'reactstrap';
-import KarimField from '../../Components/Karimalden/KarimField';
+import KarimField from '../../Components/moyyadalsharbji/KarimField';
 import { FakeSelectData } from '../../Layout/app/Const';
 import { useFormikContext } from 'formik';
 
